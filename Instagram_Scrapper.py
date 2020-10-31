@@ -4,10 +4,10 @@ import instaloader
 
 #enter instagram login crendentials in place of username and password
 L=instaloader.Instaloader()
-L.login('rugnedarze@nedoz.com', 'iostream')
+L.login('username', 'password')
 
 #enter the list of accounts for scrapping 
-accounts = ['therock','dhanashreevermacompany']
+accounts = ['therock']
 
 for i in range(len(accounts)):
     pro = accounts[i]
