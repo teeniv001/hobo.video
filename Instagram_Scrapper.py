@@ -3,8 +3,8 @@ import re
 import instaloader
 
 #enter instagram login crendentials in place of username and password
-k=instaloader.Instaloader()
-k.login('username', 'password')
+L=instaloader.Instaloader()
+L.login('username', 'password')
 
 #enter the list of accounts for scrapping 
 accounts = ['therock']
