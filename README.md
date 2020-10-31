@@ -1,5 +1,4 @@
 # hobo.video
-## Task assigned by hobo.video
 Instagram_Scrapper uses Instaloader library to get data from instagram and store it in .csv file 
 
 ## Installation
