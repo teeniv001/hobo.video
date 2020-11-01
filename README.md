@@ -6,4 +6,4 @@ Open cmd and navigate to the folder you just put the extractor on. Then run the 
 * pip install -r requirements.txt
 * python main.py
 
-You can check the information from .csv file that is being created in in 'downloads' folder for every account.
+You can check the information from .csv file that is being created in 'downloads' folder for every account.
